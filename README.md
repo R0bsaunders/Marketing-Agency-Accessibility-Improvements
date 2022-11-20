@@ -27,12 +27,13 @@ The website itself can be found here: https://r0bsaunders.github.io/Marketing-Ag
 
 The website will look like the below screenshot:
 
-![Found in the assets folder](assets/Website-screenshot)
+![Found in the assets folder](assets/Website-screenshot/marketing-website-screenshot.png)
 
+The website will load corerctly and match the screenshot provided by the agency which can be found: ![Here](assets/Website-screenshot/original-website-screenshot.png)
 
 ## Credits
 
-N/A
+© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
 
 ## License
 
